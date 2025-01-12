@@ -1,0 +1,134 @@
+﻿@model IEnumerable<ImaadProgP2.Models.Claims>
+
+@{
+    ViewBag.Title = "Claims List";
+}
+
+<h1>Claims List</h1>
+
+<style>
+    body {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('@Url.Content("~/images/pexels-artempodrez-7233099.jpg")');
+        background-size: cover;
+        background-position: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        color: #fff;
+    }
+
+    h1 {
+        color: #ffdd57;
+        text-align: center;
+        margin: 20px 0;
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .overlay {
+        padding: 20px;
+        width: 95%;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .table {
+        background-color: rgba(0, 0, 0, 0.7);
+        color: #fff;
+        border-radius: 12px;
+        border: 1px solid #ddd;
+        width: 100%;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+
+        .table th {
+            background-color: #ffdd57;
+            color: #343a40;
+            font-weight: bold;
+            padding: 15px;
+        }
+
+        .table td {
+            background-color: rgba(255, 255, 255, 0.1);
+            text-align: center;
+            padding: 15px;
+            border: 1px solid #fff;
+        }
+
+            .table td a {
+                color: #ffdd57;
+                text-decoration: none;
+            }
+
+                .table td a:hover {
+                    text-decoration: underline;
+                }
+
+        .table tr:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+    .btn-info {
+        background-color: #ff6f61;
+        border-color: #ff6f61;
+        color: #fff;
+        font-weight: bold;
+        padding: 10px 20px;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+
+        .btn-info:hover {
+            background-color: #e65c54;
+            border-color: #d94540;
+            transform: translateY(-5px);
+            box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+        }
+</style>
+
+<div class="overlay">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>LecturerID</th>
+                <th>FirstName</th>
+                <th>LastName</th>
+                <th>ClaimsPeriodStart</th>
+                <th>ClaimsPeriodEnd</th>
+                <th>HoursWorked</th>
+                <th>RatePerHour</th>
+                <th>TotalAmount</th>
+                <th>DescriptionOfWork</th>
+                <th>DocumentPath</th>
+                <th>ApprovalStatus</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.LecturerID</td>
+                    <td>@claim.FirstName</td>
+                    <td>@claim.LastName</td>
+                    <td>@claim.ClaimsPeriodStart.ToShortDateString()</td>
+                    <td>@claim.ClaimsPeriodEnd.ToShortDateString()</td>
+                    <td>@claim.HoursWorked</td>
+                    <td>@claim.RatePerHour</td>
+                    <td>@claim.TotalAmount</td>
+                    <td>@claim.DescriptionOfWork</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(claim.DocumentPath))
+                        {
+                            <a href="@claim.DocumentPath" target="_blank">View Document</a>
+                        }
+                    </td>
+                    <td>@claim.ApprovalStatus</td>
+                    <td>
+                        <a asp-controller="Approval" asp-action="Review" asp-route-id="@claim.Id" class="btn btn-info">Review</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

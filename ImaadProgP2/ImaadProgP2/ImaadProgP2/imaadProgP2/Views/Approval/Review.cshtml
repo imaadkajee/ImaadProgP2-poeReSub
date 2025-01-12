@@ -1,0 +1,137 @@
+﻿@model ImaadProgP2.Models.Claims
+
+@{
+    ViewBag.Title = "Review Claim";
+}
+
+<h1>Review Claim</h1>
+
+<style>
+    body {
+        background-image: url('@Url.Content("~/images/wallpaper2.jpg")');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: Arial, sans-serif;
+        color: #fff; /* White text for body */
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        color: #fff; /* White text for header */
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .container {
+        background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+        padding: 20px;
+        border-radius: 8px;
+        width: 90%;
+        max-width: 800px; /* Adjust width as needed */
+        margin: 0 auto; /* Center the container */
+        overflow: hidden; /* Prevent the background from spilling over */
+        box-sizing: border-box; /* Ensures padding doesn't cause overflow */
+    }
+
+        .container h3 {
+            color: #007bff; /* Blue text for section headings */
+            margin-bottom: 20px;
+        }
+
+        .container p {
+            color: #ddd; /* Light text color for paragraph */
+            margin-bottom: 10px;
+        }
+
+            .container p strong {
+                color: #fff; /* White text for strong elements */
+            }
+
+        .container a {
+            color: #007bff; /* Bootstrap blue color for links */
+            text-decoration: none;
+        }
+
+            .container a:hover {
+                text-decoration: underline; /* Underline on hover for links */
+            }
+
+    .btn-success {
+        background-color: #007bff; /* Blue success button color */
+        border-color: #007bff;
+        color: #fff; /* White text for buttons */
+    }
+
+        .btn-success:hover {
+            background-color: #0056b3; /* Darker blue for hover effect */
+            border-color: #004085;
+        }
+
+    .btn-danger {
+        background-color: #dc3545; /* Danger button color */
+        border-color: #dc3545;
+        color: #fff; /* White text for buttons */
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333; /* Darker shade for hover effect */
+            border-color: #bd2130;
+        }
+
+    .btn {
+        border-radius: 5px; /* Rounded corners for buttons */
+        padding: 10px 20px;
+        border: none;
+        font-size: 16px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+</style>
+
+<div class="container">
+    <h3>Claim Details</h3>
+    <p><strong>LecturerID:</strong> @Model.LecturerID</p>
+    <p><strong>Name:</strong> @Model.FirstName @Model.LastName</p>
+    <p><strong>Period:</strong> @Model.ClaimsPeriodStart.ToShortDateString() to @Model.ClaimsPeriodEnd.ToShortDateString()</p>
+    <p><strong>Hours Worked:</strong> @Model.HoursWorked</p>
+    <p><strong>Rate Per Hour:</strong> @Model.RatePerHour</p>
+    <p><strong>Total Amount:</strong> @Model.TotalAmount</p>
+    <p><strong>Description:</strong> @Model.DescriptionOfWork</p>
+
+    <p>
+        <strong>Document:</strong>
+        @if (!string.IsNullOrEmpty(Model.DocumentPath))
+        {
+            <a href="@Url.Content("~/uploads/" + Model.DocumentPath)" target="_blank">View Document</a>
+            <br />
+            <span><strong>Document Path:</strong> @Url.Content("~/uploads/" + Model.DocumentPath)</span>
+        }
+        else
+        {
+            <span>No Document Uploaded</span>
+        }
+    </p>
+
+    @if (ViewBag.CanEdit != false)
+    {
+        <form asp-action="ApproveConfirmed" method="post" asp-route-id="@Model.Id" style="display:inline;">
+            <button type="submit" class="btn btn-success">Approve</button>
+        </form>
+
+        <form asp-action="RejectConfirmed" method="post" asp-route-id="@Model.Id" style="display:inline;">
+            <button type="submit" class="btn btn-danger">Reject</button>
+        </form>
+    }
+    else
+    {
+        <p><strong>Status:</strong> @Model.ApprovalStatus</p>
+        <p><strong>Approved By:</strong> @Model.ApprovedBy</p>
+    }
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+</div>

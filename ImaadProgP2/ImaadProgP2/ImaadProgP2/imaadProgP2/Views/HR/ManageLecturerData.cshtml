@@ -1,0 +1,174 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    ViewBag.Title = "Manage Lecturer Data";
+}
+
+<h1 class="page-title">Manage Lecturer Data</h1>
+
+<style>
+    body {
+        background-image: url('/images/wallpaper2.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: Arial, sans-serif;
+        color: #333;
+        margin: 0;
+        padding: 0;
+    }
+
+    .page-title {
+        text-align: center;
+        color: #fff;
+        font-size: 36px;
+        margin-top: 30px;
+        font-weight: bold;
+    }
+
+    .table {
+        width: 80%;
+        margin: 30px auto;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+        .table th, .table td {
+            padding: 12px;
+            text-align: center;
+        }
+
+        .table th {
+            background-color: #004a7c;
+            color: #fff;
+            font-size: 16px;
+        }
+
+        .table td {
+            font-size: 14px;
+        }
+
+    .btn {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+    .btn-warning {
+        background-color: #f0ad4e;
+        border-color: #eea236;
+    }
+
+        .btn-warning:hover {
+            background-color: #ec971f;
+            border-color: #d58512;
+        }
+
+    .modal-content {
+        border-radius: 8px;
+    }
+
+    .modal-header {
+        background-color: #004a7c;
+        color: white;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .modal-body {
+        padding: 20px;
+    }
+
+    .form-group label {
+        font-weight: bold;
+        color: #004a7c;
+    }
+
+    .form-control {
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+        .form-control:focus {
+            border-color: #004a7c;
+            box-shadow: 0 0 8px rgba(0, 74, 124, 0.4);
+        }
+
+    .close {
+        color: #fff;
+    }
+</style>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Lecturer ID</th>
+            <th>Lecturer Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lecturer in Model)
+        {
+            <tr>
+                <td>@lecturer.LecturerID</td>
+                <td>@lecturer.FirstName @lecturer.LastName</td>
+                <td>
+                    <button class="btn btn-warning" data-toggle="modal" data-target="#updateModal"
+                            data-lecturer-id="@lecturer.LecturerID"
+                            data-first-name="@lecturer.FirstName"
+                            data-last-name="@lecturer.LastName">
+                        Update
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Modal for updating lecturer data -->
+<div class="modal fade" id="updateModal" tabindex="-1" role="dialog" aria-labelledby="updateModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="updateModalLabel">Update Lecturer Data</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="updateLecturerForm" method="post" asp-action="UpdateLecturerData">
+                    <div class="form-group">
+                        <label for="LecturerID">Lecturer ID</label>
+                        <input type="text" class="form-control" id="LecturerID" name="lecturerId" readonly />
+                    </div>
+                    <div class="form-group">
+                        <label for="FirstName">First Name</label>
+                        <input type="text" class="form-control" id="FirstName" name="firstName" />
+                    </div>
+                    <div class="form-group">
+                        <label for="LastName">Last Name</label>
+                        <input type="text" class="form-control" id="LastName" name="lastName" />
+                    </div>
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Populate modal with lecturer data
+    $('#updateModal').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget);
+        var lecturerId = button.data('lecturer-id');
+        var firstName = button.data('first-name');
+        var lastName = button.data('last-name');
+
+        var modal = $(this);
+        modal.find('.modal-body #LecturerID').val(lecturerId);
+        modal.find('.modal-body #FirstName').val(firstName);
+        modal.find('.modal-body #LastName').val(lastName);
+    });
+</script>

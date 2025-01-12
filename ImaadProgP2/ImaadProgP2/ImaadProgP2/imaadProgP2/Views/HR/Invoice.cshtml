@@ -1,0 +1,121 @@
+﻿@model ImaadProgP2.Models.Claims
+
+@{
+    ViewBag.Title = "Invoice for Claim";
+}
+
+<h1 class="invoice-title">Invoice for Claim #@Model.Id</h1>
+
+<style>
+    body {
+        background-image: url('/images/wallpaper2.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: 'Arial', sans-serif;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    /* Invoice Title */
+    .invoice-title {
+        font-size: 36px;
+        color: black;
+        margin-top: 50px;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    /* Invoice Container */
+    .invoice-container {
+        width: 80%;
+        max-width: 1000px;
+        margin: 50px auto;
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        padding: 30px;
+        text-align: left;
+    }
+
+        /* Heading styles */
+        .invoice-container h2 {
+            color: black;
+            text-decoration: underline;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        /* Paragraph styles */
+        .invoice-container p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+
+        /* Label styling */
+        .invoice-container strong {
+            font-weight: bold;
+        }
+
+    /* Background for the content */
+    .invoice-content {
+        background-color: #f8f9fa;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Invoice detail list */
+    .invoice-details {
+        font-size: 18px;
+        line-height: 1.8;
+        padding: 10px 0;
+    }
+
+    /* Footer styles */
+    .invoice-footer {
+        margin-top: 50px;
+        padding-top: 20px;
+        border-top: 2px solid #ddd;
+        text-align: center;
+    }
+
+    /* Button styling for potential download or print */
+    .btn-invoice {
+        background-color: #007bff;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        border: none;
+        text-decoration: none;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-invoice:hover {
+            background-color: #0056b3;
+        }
+</style>
+
+<div class="invoice-container">
+    <h2>Claim Invoice Details</h2>
+
+    <div class="invoice-content">
+        <p><strong>Lecturer ID:</strong> @Model.LecturerID</p>
+        <p><strong>Lecturer Name:</strong> @Model.FirstName @Model.LastName</p>
+        <p><strong>Claims Period:</strong> @Model.ClaimsPeriodStart.ToShortDateString() to @Model.ClaimsPeriodEnd.ToShortDateString()</p>
+        <p><strong>Hours Worked:</strong> @Model.HoursWorked</p>
+        <p><strong>Rate Per Hour:</strong> @Model.RatePerHour</p>
+        <p><strong>Total Amount:</strong> @Model.TotalAmount</p>
+        <p><strong>Description of Work:</strong> @Model.DescriptionOfWork</p>
+    </div>
+
+    <div class="invoice-footer">
+        <a href="#" class="btn-invoice">Download Invoice</a>
+        <a href="javascript:window.print()" class="btn-invoice" style="background-color: #28a745;">Print Invoice</a>
+    </div>
+</div>

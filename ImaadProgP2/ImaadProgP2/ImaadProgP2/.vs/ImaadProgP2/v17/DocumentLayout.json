@@ -1,0 +1,670 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\ApplicationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Controllers\\ApplicationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\HomeTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomeController\\HomeTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClaimsController\\ClaimsController.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ApplicationController\\ApplicationTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApplicationController\\ApplicationTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ApplicationController\\ApplicationController.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApplicationController\\ApplicationController.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\ManageLecturerData.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\HR\\ManageLecturerData.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\Invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\HR\\Invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\ClaimReport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\HR\\ClaimReport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\StatusOverview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Claims\\StatusOverview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Claims\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Claims\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Approval\\Review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Views\\Approval\\Review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.local.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Properties\\serviceDependencies.local.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Properties\\serviceDependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Models\\Claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Models\\Claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\HRController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Controllers\\HRController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\ClaimsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Controllers\\ClaimsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imaadProgP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\HomeController.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomeController\\HomeController.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\obj\\HomeController.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomeController\\obj\\HomeController.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClaimsController\\ClaimsController.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClaimsController\\ClaimsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ApplicationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClaimsController\\ApplicationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationController.csproj",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ApplicationController\\ApplicationController.csproj",
+              "RelativeDocumentMoniker": "ApplicationController\\ApplicationController.csproj",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ApplicationController\\ApplicationController.csproj",
+              "RelativeToolTip": "ApplicationController\\ApplicationController.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T18:22:23.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "imaadProgP2\\Controllers\\ApplicationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:05:11.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Program.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Program.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Program.cs",
+              "RelativeToolTip": "imaadProgP2\\Program.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:17:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:16:45.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:16:40.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationTest.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ApplicationController\\ApplicationTest.cs",
+              "RelativeDocumentMoniker": "ApplicationController\\ApplicationTest.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ApplicationController\\ApplicationTest.cs",
+              "RelativeToolTip": "ApplicationController\\ApplicationTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:02:38.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaimsController.csproj",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.csproj",
+              "RelativeDocumentMoniker": "ClaimsController\\ClaimsController.csproj",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.csproj",
+              "RelativeToolTip": "ClaimsController\\ClaimsController.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T18:03:21.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeTest.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\HomeTest.cs",
+              "RelativeDocumentMoniker": "HomeController\\HomeTest.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\HomeTest.cs",
+              "RelativeToolTip": "HomeController\\HomeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:03:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "imaadProgP2\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-12T18:16:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:17:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:17:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:16:35.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:16:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageLecturerData.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\ManageLecturerData.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\HR\\ManageLecturerData.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\ManageLecturerData.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\HR\\ManageLecturerData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:16:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\HR\\Invoice.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\Invoice.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\HR\\Invoice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:16:02.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClaimReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\ClaimReport.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\HR\\ClaimReport.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\HR\\ClaimReport.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\HR\\ClaimReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:15:53.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:15:49.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:15:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StatusOverview.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\StatusOverview.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Claims\\StatusOverview.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\StatusOverview.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Claims\\StatusOverview.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:15:28.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\Index.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Claims\\Index.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\Index.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Claims\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:15:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\Create.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Claims\\Create.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Claims\\Create.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Claims\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:14:58.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Approval\\Review.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Views\\Approval\\Review.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Views\\Approval\\Review.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Views\\Approval\\Review.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:14:26.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "serviceDependencies.local.json.user",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.local.json.user",
+              "RelativeDocumentMoniker": "imaadProgP2\\Properties\\serviceDependencies.local.json.user",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.local.json.user",
+              "RelativeToolTip": "imaadProgP2\\Properties\\serviceDependencies.local.json.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-01-12T18:14:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "imaadProgP2\\Properties\\serviceDependencies.local.json",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "imaadProgP2\\Properties\\serviceDependencies.local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:14:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "imaadProgP2\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "imaadProgP2\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:14:16.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "imaadProgP2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "imaadProgP2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:14:11.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "imaadProgP2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:10:02.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Claims.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Models\\Claims.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Models\\Claims.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Models\\Claims.cs",
+              "RelativeToolTip": "imaadProgP2\\Models\\Claims.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:07:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "imaadProgP2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:07:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Controllers\\HRController.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\HRController.cs",
+              "RelativeToolTip": "imaadProgP2\\Controllers\\HRController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:06:53.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "imaadProgP2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:06:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "imaadProgP2\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "imaadProgP2\\Controllers\\ClaimsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:05:53.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "imaadProgP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\imaadProgP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "imaadProgP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:05:03.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\obj\\HomeController.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "HomeController\\obj\\HomeController.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\obj\\HomeController.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "HomeController\\obj\\HomeController.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:03:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.csproj",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\HomeController.csproj",
+              "RelativeDocumentMoniker": "HomeController\\HomeController.csproj",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\HomeController\\HomeController.csproj",
+              "RelativeToolTip": "HomeController\\HomeController.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T18:03:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClaimsController.csproj.user",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.csproj.user",
+              "RelativeDocumentMoniker": "ClaimsController\\ClaimsController.csproj.user",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.csproj.user",
+              "RelativeToolTip": "ClaimsController\\ClaimsController.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-01-12T18:03:28.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "ClaimsController\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ClaimsController.cs",
+              "RelativeToolTip": "ClaimsController\\ClaimsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:02:56.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "ClaimsController\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ImaadProgP2\\ImaadProgP2\\ImaadProgP2\\ClaimsController\\ApplicationController.cs",
+              "RelativeToolTip": "ClaimsController\\ApplicationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:02:50.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
